@@ -15,4 +15,4 @@ Utilizar o comando "nohup" para executar o script em segundo plano e redireciona
 nota: o script tweet.sh recebe um parâmetro de intervalo de tempo em segundos para as postagens.
 
 Uso:
-nohup ./tweet.sh [intervalo de postagens] > ./[nome do arquivo de log].log
+nohup ./tweet.sh [intervalo de postagens] > ./[nome do arquivo de log].log &
