@@ -1,5 +1,5 @@
 # BotServer
-um bot que publica automaticamente tweets com o status de um servidor
+um bot em Shell Script que publica automaticamente tweets com o status de um servidor
 mostrando a carga média da CPU, memória RAM utilizada e espaço livre em disco.
 
 Requisitos:
