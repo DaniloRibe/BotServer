@@ -1,14 +1,14 @@
 # BotServer
-Um bot em Shell Script que publica automaticamente tweets com o status de um servidor
+Um bot em Shell Script que publica automaticamente em períodos pré-determinados tweets com o status de um servidor
 mostrando a carga média da CPU, memória RAM utilizada e espaço livre em disco.
 
 Requisitos:
 - Se precisa ter uma conta de desenvolvedor do Twitter
 - Criar um app
-- Ter acesso à todos os tokens depois de criar o app
+- Ter acesso à todos os tokens e keys após criar o app
 
 1o passo:
-Preencher todas as variáveis do arquivo tweet.client.key (o que não é obrigatório) com suas tokens, ou criar as mesmas variáveis no arquivo tweet.sh devidamente preenchidas.
+Preencher todas as variáveis do arquivo tweet.client.key (o que não é obrigatório) com suas tokens e keys, ou criar as mesmas variáveis no arquivo tweet.sh devidamente preenchidas.
 
 2o passo:
 Utilizar o comando "nohup" para executar o script em segundo plano e redirecionar a saída para um arquivo .log
