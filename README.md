@@ -12,6 +12,7 @@ Preencher todas as variáveis do arquivo tweet.client.key (o que não é obrigat
 
 2o passo:
 Utilizar o comando "nohup" para executar o script em segundo plano e redirecionar a saída para um arquivo .log
-nota: o script tweet.sh recebe um parâmetro de intervalo de tempo em segundos para as postagens
+nota: o script tweet.sh recebe um parâmetro de intervalo de tempo em segundos para as postagens.
+
 Uso:
 nohup ./tweet.sh [intervalo de postagens] > ./[nome do arquivo de log].log
